@@ -1,4 +1,4 @@
-**CREDITS TO PLOOSH AND THROWBACK**
+**CREDITS TO PLOOSHI AND THROWBACK**
 First, You will wanna download the Reload Backend.
 Second, You will need a discord bot. I can't remember all the steps, but once i do i will upload them.
 After that, Put your bot token in the config, Also put your Discord ID in the moderators. Next, You will need MongoDB.
